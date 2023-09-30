@@ -1,6 +1,6 @@
+with the help of @annalauraw and @guenterh
 
-
-
+To learn about our data processing visit https://github.com/annalauraw/colonial-traces-in-travelogues.
 
 # Getting Started with Create React App
 
