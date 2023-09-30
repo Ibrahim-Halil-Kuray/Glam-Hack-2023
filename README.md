@@ -1,4 +1,4 @@
-with the help of @annalauraw and @guenterh
+with the help of [@annalauraw](https://github.com/annalauraw) and [@guenterh](https://github.com/guenterh).
 
 To learn about our data processing visit https://github.com/annalauraw/colonial-traces-in-travelogues.
 
